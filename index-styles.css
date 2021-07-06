@@ -1,12 +1,12 @@
 .center-class
 {
 	text-align:center;
-	color:white;
+	color:black;
 }
 body
 {
-	background-color:black;
-	background-image:url('imgs/microfab.gif');
+	background-color:#232767;
+	background-image:url('imgs/doge.gif');
 }
 #personal_photo_div
 {
