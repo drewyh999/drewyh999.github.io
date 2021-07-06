@@ -1,19 +1,17 @@
 .center-class
 {
 	text-align:center;
-	color:black;
+	color:white;
 }
 body
 {
 	background-color:#232767;
-	background-image:url('imgs/doge.gif');
 }
 #personal_photo_div
 {
 	text-align: center;
 	margin: 20px;
 }
-
 a {
   font: bold 30px Arial;
   text-decoration: none;
