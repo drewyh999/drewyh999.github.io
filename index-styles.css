@@ -1,0 +1,14 @@
+.center-class
+{
+	text-align:center;
+	color:white;
+}
+body
+{
+	background-color:black;
+	background-image:url('imgs/microfab.gif');
+}
+#personal_photo_div
+{
+	text-align: center;
+}
