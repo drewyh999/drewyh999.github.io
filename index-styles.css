@@ -11,6 +11,7 @@ body
 #personal_photo_div
 {
 	text-align: center;
+	margin: 20px;
 }
 
 a {
@@ -26,5 +27,6 @@ a {
 }
 
 .links {
-	margin-top: 40px;
+	position: relative;
+	margin-top: 50px;
 }
