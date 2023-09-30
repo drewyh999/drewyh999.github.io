@@ -5,7 +5,8 @@
 }
 body
 {
-	background-color:#232767;
+	background-image: url('imgs/microfab.gif');
+  color: antiquewhite;
 }
 #personal_photo_div
 {
@@ -27,4 +28,12 @@ a {
 .links {
 	position: relative;
 	margin-top: 50px;
+}
+
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('resources/JetBrainsMonoNL-Italic.ttf') format('truetype');
+}
+body {
+  font-family: 'JetBrains Mono', monospace;
 }
