@@ -37,3 +37,11 @@ a {
 body {
   font-family: 'JetBrains Mono', monospace;
 }
+
+.news-item{
+  background-color: #333333;
+  color: #EEEEEE;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+}
